@@ -4,12 +4,6 @@
 > 
 > University: Politecnica Salesiana
 
-## Index
-
-* [Domain model](Domain Model)
-
-* [classes](Classes Diagram)
-
 ## Domain model
 
 <img title="" src="./img/logo.jpg" alt="">
@@ -19,3 +13,7 @@
 ## Classes Diagram
 
 <img title="" src="./img/klondike.png" alt="">
+
+## Initial State
+
+<img title="initial state" src="./img/initial-state-diagram.png">

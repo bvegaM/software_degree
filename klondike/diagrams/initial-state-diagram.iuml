@@ -1,0 +1,101 @@
+@startuml
+
+object ":Klondike" as Klondike
+object ":Stock" as Stock
+object ":Waste" as Waste
+
+object ":Pile" as Pile
+
+object ":Foundation" as Foundation
+
+object ":Card" as Card{
+    color: random
+    rank: random
+    upTurn: false
+}
+
+object ":Card" as Card0
+
+object ":Diamond" as Card1{
+    color: Color.RED
+    rank: Rank.2
+    upTurn: true
+}
+
+object ":Club" as Card2{
+    color: Color.RED
+    rank: Rank.A
+    upTurn: true
+}
+
+object ":Diamond" as Card3{
+    color: Color.RED
+    rank: Rank.J
+    upTurn: true
+}
+
+object ":Heart" as Card4{
+    color: Color.RED
+    rank: Rank.K
+    upTurn: true
+}
+
+object ":Cub" as Card5{
+    color: Color.BLACK
+    rank: Rank.4
+    upTurn: true
+}
+
+object ":Spade" as Card6{
+    color: Color.BLACK
+    rank: Rank.5
+    upTurn: true
+}
+object ":Diamond" as Card7{
+    color: Color.RED
+    rank: Rank.K
+    upTurn: true
+}
+
+object ":Card" as Card8
+object ":Card" as Card9
+object ":Card" as Card10
+object ":Card" as Card11
+
+note as Note
+The last card is turned face up, 
+the rest of the cards of the pile are turned face down 
+(on top of the last card).
+end note
+
+Klondike *-- Stock: 1
+Klondike *-- Waste: 1
+Klondike *-- Pile: 7
+Klondike *-- Foundation: 4
+
+
+Stock o-- Card: 24
+Waste o-- Card0:0
+
+Pile o-- Card1: 1
+Pile o-- Card2: 2
+Pile o-- Card3: 3
+Pile o-- Card4: 4
+Pile o-- Card5: 5
+Pile o-- Card6: 6
+Pile o-- Card7: 7
+
+Foundation o-- Card8:0
+Foundation o-- Card9:0
+Foundation o-- Card10:0
+Foundation o-- Card11:0
+
+Card2 .. Note
+Card3 .. Note
+Card4 .. Note
+Card5 .. Note
+Card6 .. Note
+Card7 .. Note
+
+
+@enduml
