@@ -1,0 +1,92 @@
+@startuml klondike
+
+'clases'
+class Klondike
+class Player
+class Pile
+class Tableau
+class Foundation
+class Waste
+class Stock{
+    - numCards: int = 52
+}
+class Move{
+    - from: Stack
+    - card: Card
+    - to: Stack
+}
+class Goal
+class Pile
+
+class Club
+class Diamond
+class Heart
+class Spade
+
+'absract clases'
+abstract Stack{
+    - cardList: List
+    # validMove(): boolean
+}
+abstract Card{
+    - color: Color
+    - rank:Rank
+    - upTurnCard: boolean
+}
+
+'enum clases'
+enum Rank{
+    A
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    J
+    Q
+    K
+}
+enum Color{
+    RED
+    BLACK
+}
+
+'relations'
+
+Klondike *-down- Player
+Klondike *-down- Foundation: 4
+Klondike *-down- Tableau
+Klondike *-down- Waste
+Klondike *-down- Stock
+
+Stack <|-down- Tableau
+Stack <|-down- Foundation
+Stack <|-down- Waste
+Stack <|-down- Stock
+Stack *-down- Card : 0..52
+
+Move o-down- Stack
+Move -down-> Card
+
+Player .down.> Move: n
+Player .down.> Goal
+
+Goal *-down- AllFilledFoundations
+AllFilledFoundations -right-> "4" Foundation
+
+
+Card <|-down- Club
+Card <|-down- Diamond
+Card <|-down- Heart
+Card <|-down- Spade
+Card *-down- Rank
+Card *-down- Color
+
+Tableau -left-> Card
+Tableau *-down- Pile: 7
+
+@enduml
