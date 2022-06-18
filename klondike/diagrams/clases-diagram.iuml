@@ -15,7 +15,7 @@ class Move{
 }
 class Goal
 class Pile
-
+class Deck
 class Club
 class Diamond
 class Heart
@@ -57,14 +57,19 @@ enum Color{
 
 Klondike *-down- Player
 Klondike *-down- Foundation: 4
-Klondike *-down- Tableau
-Klondike *-down- Waste
-Klondike *-down- Stock
+Klondike *-down- Tableau: 1
+Klondike *-down- Waste: 1
+Klondike *-down- Pile: 7
+Klondike *-down- Stock: 1
+Klondike *-down- Deck: 52
+
+Deck o-- Card
 
 Stack <|-down- Tableau
 Stack <|-down- Foundation
 Stack <|-down- Waste
 Stack <|-down- Stock
+Stack <|-down- Pile
 Stack o-down- Card
 
 Move o-down- Stack
@@ -73,8 +78,8 @@ Move -down-> Card
 Player .down.> Move: n
 Player .down.> Goal
 
-Goal *-down- FilledFoundations
-FilledFoundations -right-> "4" Foundation
+Goal <|-down- FilledFoundations
+FilledFoundations .right.> "4" Foundation
 
 
 Card <|-down- Club
@@ -84,7 +89,5 @@ Card <|-down- Spade
 Card *-down- Rank
 Card *-down- Color
 
-Tableau -left-> Card
-Tableau *-down- Pile: 7
 
 @enduml
