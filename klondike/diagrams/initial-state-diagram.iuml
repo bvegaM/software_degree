@@ -1,101 +1,182 @@
-@startuml initial_state_diagram
 
-object ":Klondike" as Klondike
-object ":Stock" as Stock
-object ":Waste" as Waste
+@startuml initial-state
 
-object ":Pile" as Pile
 
-object ":Foundation" as Foundation
+object ":Klondike" as klondike
+object ":Stock" as stock
+object ":Waste" as waste
+object ":Foundation" as foundation1
+object ":Foundation" as foundation2
+object ":Foundation" as foundation3
+object ":Foundation" as foundation4
+object ":Pile" as pile1
+object ":Pile" as pile2
+object ":Pile" as pile3
+object ":Pile" as pile4
+object ":Pile" as pile5
+object ":Pile" as pile6
+object ":Pile" as pile7
+object ":Card" as cardStock
+object ":Diamond" as cardPile1
+object ":Club" as cardPile2
+object ":Card" as cardRandomPile2
+object ":Diamond" as cardPile3
+object ":Card" as cardRandomPile3
+object ":Heart" as cardPile4
+object ":Card" as cardRandomPile4
+object ":Club" as cardPile5
+object ":Card" as cardRandomPile5
+object ":Spade" as cardPile6
+object ":Card" as cardRandomPile6
+object ":Heart" as cardPile7
+object ":Diamond" as cardRandomPile7
 
-object ":Card" as Card{
-    color: random
-    rank: random
-    upTurn: false
-}
+'STOCK'
+cardStock : color  = random
+cardStock : rank   = random
+cardStock : upTurn = false
 
-object ":Card" as Card0
+stock o-- cardStock: 24
 
-object ":Diamond" as Card1{
-    color: Color.RED
-    rank: Rank.2
-    upTurn: true
-}
 
-object ":Club" as Card2{
-    color: Color.RED
-    rank: Rank.A
-    upTurn: true
-}
+'WASTE'
+note as noteWaste
+Waste is empty
+end note
+waste .. noteWaste
 
-object ":Diamond" as Card3{
-    color: Color.RED
-    rank: Rank.J
-    upTurn: true
-}
+'FOUNDATION'
+note as noteFoundations
+All foundations are empty
+end note
 
-object ":Heart" as Card4{
-    color: Color.RED
-    rank: Rank.K
-    upTurn: true
-}
+foundation1 .. noteFoundations
+foundation2 .. noteFoundations
+foundation3 .. noteFoundations
+foundation4 .. noteFoundations
 
-object ":Cub" as Card5{
-    color: Color.BLACK
-    rank: Rank.4
-    upTurn: true
-}
 
-object ":Spade" as Card6{
-    color: Color.BLACK
-    rank: Rank.5
-    upTurn: true
-}
-object ":Diamond" as Card7{
-    color: Color.RED
-    rank: Rank.K
-    upTurn: true
-}
+'PILE 1'
+cardPile1 : color  = Color.RED
+cardPile1 : rank   = Rank.2
+cardPile1 : upTurn = true
 
-object ":Card" as Card8
-object ":Card" as Card9
-object ":Card" as Card10
-object ":Card" as Card11
+pile1 o-- cardPile1
 
-note as Note
+'PILE 2'
+cardRandomPile2 : color  = random
+cardRandomPile2 : rank   = random
+cardRandomPile2 : upTurn = false
+
+cardPile2 : color  = Color.RED
+cardPile2 : rank   = Rank.A
+cardPile2 : upTurn = true
+
+pile2 o-- cardPile2
+pile2 o-- cardRandomPile2:1
+
+
+'PILE 3'
+cardRandomPile3 : color  = random
+cardRandomPile3 : rank   = random
+cardRandomPile3 : upTurn = false
+
+cardPile3 : color  = Color.RED
+cardPile3 : rank   = Rank.J
+cardPile3 : upTurn = true
+
+pile3 o-- cardPile3
+pile3 o-- cardRandomPile3:2
+
+
+'PILE 4'
+cardRandomPile4 : color  = random
+cardRandomPile4 : rank   = random
+cardRandomPile4 : upTurn = false
+
+cardPile4 : color  = Color.RED
+cardPile4 : rank   = Rank.K
+cardPile4 : upTurn = true
+
+pile4 o-- cardPile4
+pile4 o-- cardRandomPile4:3
+
+
+'PILE 5'
+
+cardRandomPile5 : color  = random
+cardRandomPile5 : rank   = random
+cardRandomPile5 : upTurn = false
+
+cardPile5 : color  = Color.BLACK
+cardPile5 : rank   = Rank.4
+cardPile5 : upTurn = true
+
+pile5 o-- cardPile5
+pile5 o-- cardRandomPile5:4
+
+
+'PILE 6'
+cardRandomPile6 : color  = random
+cardRandomPile6 : rank   = random
+cardRandomPile6 : upTurn = false
+
+cardPile6 : color  = Color.BLACK
+cardPile6 : rank   = Rank.5
+cardPile6 : upTurn = true
+
+pile6 o-- cardPile6
+pile6 o-- cardRandomPile6:5
+
+
+'PILE 7'
+cardRandomPile7 : color  = random
+cardRandomPile7 : rank   = random
+cardRandomPile7 : upTurn = false
+
+cardPile7 : color  = Color.RED
+cardPile7 : rank   = Rank.K
+cardPile7 : upTurn = true
+
+pile7 o-- cardPile7
+pile7 o-- cardRandomPile7:6
+
+
+'NOTE LAST CARD OF PILE'
+note as noteLastCardOfPile
 The last card is turned face up, 
 the rest of the cards of the pile are turned face down 
 (on top of the last card).
 end note
 
-Klondike *-- Stock: 1
-Klondike *-- Waste: 1
-Klondike *-- Pile: 7
-Klondike *-- Foundation: 4
+cardPile1 .. noteLastCardOfPile
+cardPile2 .. noteLastCardOfPile
+cardPile3 .. noteLastCardOfPile
+cardPile4 .. noteLastCardOfPile
+cardPile5 .. noteLastCardOfPile
+cardPile6 .. noteLastCardOfPile
+cardPile7 .. noteLastCardOfPile
 
+cardRandomPile2 .. noteLastCardOfPile
+cardRandomPile3 .. noteLastCardOfPile
+cardRandomPile4 .. noteLastCardOfPile
+cardRandomPile5 .. noteLastCardOfPile
+cardRandomPile6 .. noteLastCardOfPile
+cardRandomPile7 .. noteLastCardOfPile
 
-Stock o-- Card: 24
-Waste o-- Card0:0
-
-Pile o-- Card1: 1
-Pile o-- Card2: 2
-Pile o-- Card3: 3
-Pile o-- Card4: 4
-Pile o-- Card5: 5
-Pile o-- Card6: 6
-Pile o-- Card7: 7
-
-Foundation o-- Card8:0
-Foundation o-- Card9:0
-Foundation o-- Card10:0
-Foundation o-- Card11:0
-
-Card2 .. Note
-Card3 .. Note
-Card4 .. Note
-Card5 .. Note
-Card6 .. Note
-Card7 .. Note
-
+'KLONDIKE'
+klondike *-- stock
+klondike *-- waste
+klondike *-- foundation1
+klondike *-- foundation2
+klondike *-- foundation3
+klondike *-- foundation4
+klondike *-- pile1
+klondike *-- pile2
+klondike *-- pile3
+klondike *-- pile4
+klondike *-- pile5
+klondike *-- pile6
+klondike *-- pile7
 
 @enduml

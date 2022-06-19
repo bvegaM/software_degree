@@ -16,4 +16,4 @@
 
 ## Initial State
 
-<img title="initial state" src="./img/initial-state-diagram.png">
+<img title="initial state" src="./img/initial-state.png">
