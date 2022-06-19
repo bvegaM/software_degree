@@ -1,4 +1,4 @@
-@startuml
+@startuml initial_state_diagram
 
 object ":Klondike" as Klondike
 object ":Stock" as Stock
