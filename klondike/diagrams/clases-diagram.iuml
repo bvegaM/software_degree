@@ -14,7 +14,9 @@ class Move{
 }
 class Goal
 class Pile
-class Deck
+class Deck{
+    - cardList: List
+}
 class Club
 class Diamond
 class Heart
@@ -60,9 +62,9 @@ Klondike *-down- Foundation: 4
 Klondike *-down- Waste: 1
 Klondike *-down- Pile: 7
 Klondike *-down- Stock: 1
-Klondike *-down- Deck: 52
+Klondike *-down- Deck: 1
 
-Deck o-- Card
+Deck o-- Card: 52
 
 
 Stack <|-down- Foundation
@@ -74,7 +76,7 @@ Stack o-down- Card
 Move o-down- Stack
 Move -down-> Card
 
-Player .down.> Move: n
+Player .down.> Move: 1..*
 Player .down.> Goal
 
 Goal <|-down- FilledFoundation
