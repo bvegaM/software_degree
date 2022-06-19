@@ -1,4 +1,4 @@
-@startuml klondike
+@startuml class diagram
 
 'clases'
 class Klondike

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="399px" preserveAspectRatio="none" style="width:2341px;height:399px;background:#FFFFFF;" version="1.1" viewBox="0 0 2341 399" width="2341px" zoomAndPan="magnify"><defs><filter height="300%" id="fltpjzvntidl1" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="68" x="736.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="54" x="743.5" y="20.6016">:Klondike</text><line style="stroke:#A80036;stroke-width:1.5;" x1="737.5" x2="803.5" y1="25.1328" y2="25.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="48" x="69.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="34" x="76.5" y="115.6016">:Stock</text><line style="stroke:#A80036;stroke-width:1.5;" x1="70.5" x2="116.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="52" x="183.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="38" x="190.5" y="115.6016">:Waste</text><line style="stroke:#A80036;stroke-width:1.5;" x1="184.5" x2="234.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="287" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="294" y="115.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="288" x2="367" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="403" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="410" y="115.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="404" x2="483" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="519" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="526" y="115.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="520" x2="599" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="635" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="642" y="115.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="636" x2="715" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="751.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="758.5" y="115.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="752.5" x2="788.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="824.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="831.5" y="115.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="825.5" x2="861.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="970.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="977.5" y="115.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="971.5" x2="1007.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1250.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1257.5" y="115.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1251.5" x2="1287.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1536.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1543.5" y="115.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1537.5" x2="1573.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1828.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1835.5" y="115.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1829.5" x2="1865.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="2114.5" y="102"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="2121.5" y="115.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="2115.5" x2="2151.5" y1="120.1328" y2="120.1328"/><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="107" x="7" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="44.5" y="226.6016">:Card</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="113" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="78" x="13" y="244.8008">color  = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="13" y="256.5781">rank   = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="13" y="268.3555">upTurnCard = false</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="520" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="543.5" y="226.6016">:Diamond</text><line style="stroke:#A80036;stroke-width:1.5;" x1="521" x2="622" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="526" y="244.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="75" x="526" y="256.5781">rank   = Rank.2</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="526" y="268.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="658" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="30" x="694.5" y="226.6016">:Club</text><line style="stroke:#A80036;stroke-width:1.5;" x1="659" x2="760" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="664" y="244.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="664" y="256.5781">rank   = Rank.A</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="664" y="268.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="107" x="796" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="833.5" y="226.6016">:Card</text><line style="stroke:#A80036;stroke-width:1.5;" x1="797" x2="902" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="78" x="802" y="244.8008">color  = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="802" y="256.5781">rank   = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="802" y="268.3555">upTurnCard = false</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="938" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="961.5" y="226.6016">:Diamond</text><line style="stroke:#A80036;stroke-width:1.5;" x1="939" x2="1040" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="944" y="244.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="72" x="944" y="256.5781">rank   = Rank.J</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="944" y="268.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="107" x="1076" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="1113.5" y="226.6016">:Card</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1077" x2="1182" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="78" x="1082" y="244.8008">color  = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="1082" y="256.5781">rank   = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="1082" y="268.3555">upTurnCard = false</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="1218" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="36" x="1251.5" y="226.6016">:Heart</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1219" x2="1320" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="1224" y="244.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1224" y="256.5781">rank   = Rank.K</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="1224" y="268.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="107" x="1356" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="1393.5" y="226.6016">:Card</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1357" x2="1462" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="78" x="1362" y="244.8008">color  = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="1362" y="256.5781">rank   = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="1362" y="268.3555">upTurnCard = false</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="114" x="1498.5" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="30" x="1540.5" y="226.6016">:Club</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1499.5" x2="1611.5" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="102" x="1504.5" y="244.8008">color  = Color.BLACK</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="75" x="1504.5" y="256.5781">rank   = Rank.4</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="1504.5" y="268.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="107" x="1648" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="1685.5" y="226.6016">:Card</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1649" x2="1754" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="78" x="1654" y="244.8008">color  = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="1654" y="256.5781">rank   = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="1654" y="268.3555">upTurnCard = false</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="114" x="1790.5" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="1827.5" y="226.6016">:Spade</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1791.5" x2="1903.5" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="102" x="1796.5" y="244.8008">color  = Color.BLACK</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="75" x="1796.5" y="256.5781">rank   = Rank.5</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="1796.5" y="268.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="107" x="1940" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="1977.5" y="226.6016">:Card</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1941" x2="2046" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="78" x="1946" y="244.8008">color  = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="1946" y="256.5781">rank   = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="1946" y="268.3555">upTurnCard = false</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="2082" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="36" x="2115.5" y="226.6016">:Heart</text><line style="stroke:#A80036;stroke-width:1.5;" x1="2083" x2="2184" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="2088" y="244.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="2088" y="256.5781">rank   = Rank.K</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="2088" y="268.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#fltpjzvntidl1)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="107" x="2220" y="213"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="2257.5" y="226.6016">:Card</text><line style="stroke:#A80036;stroke-width:1.5;" x1="2221" x2="2326" y1="231.1328" y2="231.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="78" x="2226" y="244.8008">color  = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="79" x="2226" y="256.5781">rank   = random</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="95" x="2226" y="268.3555">upTurnCard = false</text><path d="M149.5,231 L149.5,256.3105 A0,0 0 0 0 149.5,256.3105 L265.5,256.3105 A0,0 0 0 0 265.5,256.3105 L265.5,241 L255.5,231 L211.69,231 L209.24,136.01 L203.69,231 L149.5,231 A0,0 0 0 0 149.5,231 " fill="#FBFB77" filter="url(#fltpjzvntidl1)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M255.5,231 L255.5,241 L265.5,241 L255.5,231 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="95" x="155.5" y="248.5684">Waste is empty</text><path d="M300.5,231 L300.5,256.3105 L484.5,256.3105 L484.5,241 L474.5,231 L300.5,231 " fill="#FBFB77" filter="url(#fltpjzvntidl1)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M474.5,231 L474.5,241 L484.5,241 L474.5,231 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="163" x="306.5" y="248.5684">All foundations are empty</text><path d="M1231.5,335 L1231.5,390.9316 L1587.5,390.9316 L1587.5,345 L1577.5,335 L1231.5,335 " fill="#FBFB77" filter="url(#fltpjzvntidl1)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1577.5,335 L1577.5,345 L1587.5,345 L1577.5,335 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="195" x="1237.5" y="352.5684">The last card is turned face up,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="331" x="1237.5" y="367.8789">the rest of the cards of the pile are turned face down</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="152" x="1237.5" y="383.1895">(on top of the last card).</text><!--MD5=[81f13008d82154ada7ef74ada09083c9]
+reverse link stock to cardStock--><path codeLine="37" d="M85.74,148.82 C80.54,168.1 73.73,193.41 68.49,212.86 " fill="none" id="stock-backto-cardStock" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="89.19,136.01,83.766,140.7618,86.0661,147.5962,91.4901,142.8444,89.19,136.01" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="16" x="82.5" y="179.5684">24</text><!--MD5=[cf8d085c2f97cdc1e7651272c3e50a51]
+link foundation1 to noteFoundations--><path codeLine="51" d="M336,136.01 C349.28,161.05 374.65,208.86 386.33,230.88 " fill="none" id="foundation1-noteFoundations" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[7a634d48cf0d51126859482660b18e2b]
+link foundation2 to noteFoundations--><path codeLine="52" d="M436.83,136.01 C426.41,161.05 406.51,208.86 397.34,230.88 " fill="none" id="foundation2-noteFoundations" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[8fb4d0339ade03e2f5bbd6864b516fc5]
+link foundation3 to noteFoundations--><path codeLine="53" d="M537.67,136.01 C503.54,161.05 438.36,208.86 408.35,230.88 " fill="none" id="foundation3-noteFoundations" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[bc954b4c775519caf7fd6941982e78b9]
+link foundation4 to noteFoundations--><path codeLine="54" d="M638.5,136.01 C580.67,161.05 470.22,208.86 419.36,230.88 " fill="none" id="foundation4-noteFoundations" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[66332456608c08a687d9ce0faf3ff7bb]
+reverse link pile1 to cardPile1--><path codeLine="62" d="M740.14,138.69 C708.14,158.39 657.26,189.71 619.75,212.8 " fill="none" id="pile1-backto-cardPile1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="751.42,131.75,744.2136,131.4885,741.2006,138.0399,748.4069,138.3014,751.42,131.75" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a4d5294626641b91b22dad35835d0d54]
+reverse link pile2 to cardPile2--><path codeLine="73" d="M816.18,144.98 C794.68,164.63 764.65,192.08 741.93,212.86 " fill="none" id="pile2-backto-cardPile2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="825.98,136.01,818.8532,137.1095,817.127,144.1109,824.2538,143.0115,825.98,136.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e2a0b5daebd58ad36337c7a9ca0b5966]
+reverse link pile2 to cardRandomPile2--><path codeLine="74" d="M844.93,149.1 C845.87,168.35 847.1,193.5 848.05,212.86 " fill="none" id="pile2-backto-cardRandomPile2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="844.28,136.01,840.5748,142.1964,844.8602,147.996,848.5654,141.8096,844.28,136.01" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="847.5" y="179.5684">1</text><!--MD5=[87801807736c074394d7838776f9a86b]
+reverse link pile3 to cardPile3--><path codeLine="86" d="M989.5,149.1 C989.5,168.35 989.5,193.5 989.5,212.86 " fill="none" id="pile3-backto-cardPile3" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="989.5,136.01,985.5,142.01,989.5,148.01,993.5,142.01,989.5,136.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a7fb09f0ba7e0d3d19456d6b391ad4fb]
+reverse link pile3 to cardRandomPile3--><path codeLine="87" d="M1017.74,144.71 C1040.22,164.38 1071.77,191.99 1095.62,212.86 " fill="none" id="pile3-backto-cardRandomPile3" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1007.8,136.01,1009.6836,142.9708,1016.8334,143.9093,1014.9498,136.9485,1007.8,136.01" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1060.5" y="179.5684">2</text><!--MD5=[7da3238b98236dc21554a64956a46f8a]
+reverse link pile4 to cardPile4--><path codeLine="99" d="M1269.5,149.1 C1269.5,168.35 1269.5,193.5 1269.5,212.86 " fill="none" id="pile4-backto-cardPile4" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1269.5,136.01,1265.5,142.01,1269.5,148.01,1273.5,142.01,1269.5,136.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[087aa14c757b9d121a540381c211e5e7]
+reverse link pile4 to cardRandomPile4--><path codeLine="100" d="M1297.74,144.71 C1320.22,164.38 1351.77,191.99 1375.62,212.86 " fill="none" id="pile4-backto-cardRandomPile4" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1287.8,136.01,1289.6836,142.9708,1296.8334,143.9093,1294.9498,136.9485,1287.8,136.01" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1340.5" y="179.5684">3</text><!--MD5=[63b4018b1fd26c019d6dffecdea67b9c]
+reverse link pile5 to cardPile5--><path codeLine="113" d="M1555.5,149.1 C1555.5,168.35 1555.5,193.5 1555.5,212.86 " fill="none" id="pile5-backto-cardPile5" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1555.5,136.01,1551.5,142.01,1555.5,148.01,1559.5,142.01,1555.5,136.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[dc197ed5229c47585203bf77c9378841]
+reverse link pile5 to cardRandomPile5--><path codeLine="114" d="M1584.63,144.44 C1608.1,164.13 1641.19,191.9 1666.17,212.86 " fill="none" id="pile5-backto-cardRandomPile5" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1574.59,136.01,1576.6143,142.9312,1583.7816,143.7246,1581.7573,136.8034,1574.59,136.01" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1629.5" y="179.5684">4</text><!--MD5=[fcc5ed29dcccee37e82a2291eb03bc97]
+reverse link pile6 to cardPile6--><path codeLine="126" d="M1847.5,149.1 C1847.5,168.35 1847.5,193.5 1847.5,212.86 " fill="none" id="pile6-backto-cardPile6" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1847.5,136.01,1843.5,142.01,1847.5,148.01,1851.5,142.01,1847.5,136.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[9774ddad8828a7284e78316eac34c1be]
+reverse link pile6 to cardRandomPile6--><path codeLine="127" d="M1876.63,144.44 C1900.1,164.13 1933.19,191.9 1958.17,212.86 " fill="none" id="pile6-backto-cardRandomPile6" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1866.59,136.01,1868.6143,142.9312,1875.7816,143.7246,1873.7573,136.8034,1866.59,136.01" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1921.5" y="179.5684">5</text><!--MD5=[1731f652f3a7a2867f24e71bef9dd741]
+reverse link pile7 to cardPile7--><path codeLine="139" d="M2133.5,149.1 C2133.5,168.35 2133.5,193.5 2133.5,212.86 " fill="none" id="pile7-backto-cardPile7" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="2133.5,136.01,2129.5,142.01,2133.5,148.01,2137.5,142.01,2133.5,136.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[1ce4cccd27d97667ae893c60e3afada6]
+reverse link pile7 to cardRandomPile7--><path codeLine="140" d="M2161.74,144.71 C2184.22,164.38 2215.77,191.99 2239.62,212.86 " fill="none" id="pile7-backto-cardRandomPile7" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="2151.8,136.01,2153.6836,142.9708,2160.8334,143.9093,2158.9498,136.9485,2151.8,136.01" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="2204.5" y="179.5684">6</text><!--MD5=[8d481b5b2685789a0744ce938e671547]
+link cardPile1 to noteLastCardOfPile--><path codeLine="150" d="M623.31,268.49 C629.03,270.59 634.84,272.48 640.5,274 C838.61,327.08 1073.83,348.15 1231.5,356.51 " fill="none" id="cardPile1-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[148f3a5f0cecdfed7135880bfb3dc89c]
+link cardPile2 to noteLastCardOfPile--><path codeLine="151" d="M761.34,268.38 C767.06,270.5 772.85,272.43 778.5,274 C928.22,315.64 1103.67,338.08 1231.5,349.86 " fill="none" id="cardPile2-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[a3810c19c7a90766149e3b384d4f1147]
+link cardPile3 to noteLastCardOfPile--><path codeLine="152" d="M1041.15,267.62 C1046.95,269.91 1052.82,272.09 1058.5,274 C1130.99,298.41 1213.92,319.51 1280.96,334.92 " fill="none" id="cardPile3-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[5521f5338160ffd2c91f1604fdf613a9]
+link cardPile4 to noteLastCardOfPile--><path codeLine="153" d="M1304.83,274.15 C1327.02,292.78 1355.44,316.63 1377.06,334.78 " fill="none" id="cardPile4-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[1a7a87f44b4b447cee0102f2477611ae]
+link cardPile5 to noteLastCardOfPile--><path codeLine="154" d="M1518.66,274.15 C1495.51,292.78 1465.88,316.63 1443.33,334.78 " fill="none" id="cardPile5-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[a712b75d68f2c378d27489bd743a0295]
+link cardPile6 to noteLastCardOfPile--><path codeLine="155" d="M1790.46,267.87 C1784.44,270.05 1778.37,272.14 1772.5,274 C1696.3,298.1 1609.33,319.39 1539.63,334.99 " fill="none" id="cardPile6-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[e5f019eb07197c5cf52f20dc3c368137]
+link cardPile7 to noteLastCardOfPile--><path codeLine="156" d="M2081.67,268.41 C2075.95,270.52 2070.15,272.44 2064.5,274 C1906.46,317.53 1720.8,339.88 1587.58,351.14 " fill="none" id="cardPile7-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[8589d993825dc8c72092fadce2902aea]
+link cardRandomPile2 to noteLastCardOfPile--><path codeLine="158" d="M903.34,268.28 C909.07,270.39 914.87,272.34 920.5,274 C1021.67,303.74 1137.73,325.15 1231.38,339.39 " fill="none" id="cardRandomPile2-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[d7c6e8a0e5416cf60c8625b03875dd1b]
+link cardRandomPile3 to noteLastCardOfPile--><path codeLine="159" d="M1183.16,267.02 C1229.29,286.37 1295.93,314.34 1344.97,334.92 " fill="none" id="cardRandomPile3-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[b494a5995927e31ad00d95a72f9a2ed3]
+link cardRandomPile4 to noteLastCardOfPile--><path codeLine="160" d="M1409.5,274.15 C1409.5,292.78 1409.5,316.63 1409.5,334.78 " fill="none" id="cardRandomPile4-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[f4e7b9f38fba1107da771dd1353b89e3]
+link cardRandomPile5 to noteLastCardOfPile--><path codeLine="161" d="M1647.66,266.62 C1641.54,269.12 1635.39,271.62 1629.5,274 C1578.6,294.61 1520.96,317.65 1477.45,334.99 " fill="none" id="cardRandomPile5-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[f2a7c39e14be8b0b022ef7343c43da8f]
+link cardRandomPile6 to noteLastCardOfPile--><path codeLine="162" d="M1939.7,268.02 C1933.62,270.23 1927.47,272.29 1921.5,274 C1812.49,305.29 1687.03,327.08 1587.59,341.14 " fill="none" id="cardRandomPile6-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[66c3fb46eeb4e3032f1c4deafc97f5e0]
+link cardRandomPile7 to noteLastCardOfPile--><path codeLine="163" d="M2219.75,268.58 C2214,270.63 2208.18,272.49 2202.5,274 C1996.02,328.95 1750.46,349.63 1587.88,357.39 " fill="none" id="cardRandomPile7-noteLastCardOfPile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[19e2af5ce11f916252ea7a0d12351353]
+reverse link klondike to stock--><path codeLine="166" d="M723.06,29.54 C620.76,39.65 371.93,66.01 165.5,102 C149.48,104.79 131.63,108.75 117.72,112.03 " fill="none" id="klondike-backto-stock" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="736.22,28.25,729.8573,24.8564,724.2776,29.4244,730.6403,32.818,736.22,28.25" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f98bf15530e19c63aa9e2fe3ce399952]
+reverse link klondike to waste--><path codeLine="167" d="M723.14,30.54 C633.87,41.38 434.82,67.36 269.5,102 C258.32,104.34 246.11,107.49 235.64,110.37 " fill="none" id="klondike-backto-waste" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="736.25,28.97,729.8143,25.717,724.3363,30.4065,730.772,33.6595,736.25,28.97" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[7f1eaf642ecee8ec97be5a152bd2f6c1]
+reverse link klondike to foundation1--><path codeLine="168" d="M723.15,33.34 C650.27,46.43 506.37,73.28 385.5,102 C379.91,103.33 374.05,104.82 368.28,106.35 " fill="none" id="klondike-backto-foundation1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="736.33,30.98,729.7203,28.097,724.5169,33.0895,731.1266,35.9725,736.33,30.98" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[75ee1b326fcf4975f9c5f8146aca7012]
+reverse link klondike to foundation2--><path codeLine="169" d="M723.91,38.25 C659.69,56.52 545,89.13 484.1,106.45 " fill="none" id="klondike-backto-foundation2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="736.43,34.69,729.5643,32.485,724.8882,37.9745,731.7539,40.1795,736.43,34.69" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8014f9bbfebd48c05cf4a59ec01a1edc]
+reverse link klondike to foundation3--><path codeLine="170" d="M724.21,45.4 C685.66,62.4 631.51,86.26 595.98,101.92 " fill="none" id="klondike-backto-foundation3" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="736.13,40.15,729.0266,38.9086,725.1486,44.9882,732.252,46.2296,736.13,40.15" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3981f20d2d5f59fc59049c23d08f8715]
+reverse link klondike to foundation4--><path codeLine="171" d="M744.66,50.29 C727.83,66.77 706.37,87.78 691.86,101.99 " fill="none" id="klondike-backto-foundation4" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="753.95,41.2,746.865,42.5427,745.3794,49.5991,752.4644,48.2564,753.95,41.2" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[54649e7ffaea488a9670acb7ba8a201e]
+reverse link klondike to pile1--><path codeLine="172" d="M770.5,54.54 C770.5,70.26 770.5,88.97 770.5,101.99 " fill="none" id="klondike-backto-pile1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="770.5,41.2,766.5,47.2,770.5,53.2,774.5,47.2,770.5,41.2" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[990c750f278e367e50a6bd28d7ddc7ce]
+reverse link klondike to pile2--><path codeLine="173" d="M791.45,51.69 C804.21,67.95 820.09,88.17 830.93,101.99 " fill="none" id="klondike-backto-pile2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="783.22,41.2,783.7719,48.39,790.621,50.6459,790.0691,43.4559,783.22,41.2" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a3d0d06cc618e076ae9a7e559f45cd9e]
+reverse link klondike to pile3--><path codeLine="174" d="M816.88,44.69 C864.55,64.94 936.48,95.48 970.45,109.91 " fill="none" id="klondike-backto-pile3" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="804.72,39.53,808.6844,45.5536,815.7694,44.2108,811.805,38.1873,804.72,39.53" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d4ee998a39be57162c29fc70c4fd2009]
+reverse link klondike to pile4--><path codeLine="175" d="M817.59,33.78 C923.79,53.57 1178.32,101.01 1250.26,114.41 " fill="none" id="klondike-backto-pile4" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="804.8,31.39,809.9645,36.4227,816.5964,33.5911,811.4319,28.5584,804.8,31.39" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d2233a30cf339411a6bc409f9f4f9fac]
+reverse link klondike to pile5--><path codeLine="176" d="M817.96,30.62 C969.25,48.55 1436.05,103.85 1536.38,115.73 " fill="none" id="klondike-backto-pile5" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="804.74,29.06,810.2276,33.7382,816.6566,30.472,811.169,25.7938,804.74,29.06" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a4935493392d58094cdfcb1b607c511c]
+reverse link klondike to pile6--><path codeLine="177" d="M817.72,29.08 C1006.53,45.38 1703.14,105.53 1828.21,116.33 " fill="none" id="klondike-backto-pile6" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="804.51,27.94,810.1452,32.4394,816.4659,28.9682,810.8307,24.4688,804.51,27.94" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[fcd5cda0988c9f31f64a21e4995bade2]
+reverse link klondike to pile7--><path codeLine="178" d="M817.79,28.23 C1039.29,43.34 1969.47,106.81 2114.46,116.7 " fill="none" id="klondike-backto-pile7" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="804.53,27.32,810.2436,31.7194,816.5021,28.1375,810.7886,23.738,804.53,27.32" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[6b8e8f903380a9df6aa0bafe938ee39f]
+@startuml initial-state
+
+
+object ":Klondike" as klondike
+object ":Stock" as stock
+object ":Waste" as waste
+object ":Foundation" as foundation1
+object ":Foundation" as foundation2
+object ":Foundation" as foundation3
+object ":Foundation" as foundation4
+object ":Pile" as pile1
+object ":Pile" as pile2
+object ":Pile" as pile3
+object ":Pile" as pile4
+object ":Pile" as pile5
+object ":Pile" as pile6
+object ":Pile" as pile7
+object ":Card" as cardStock
+object ":Diamond" as cardPile1
+object ":Club" as cardPile2
+object ":Card" as cardRandomPile2
+object ":Diamond" as cardPile3
+object ":Card" as cardRandomPile3
+object ":Heart" as cardPile4
+object ":Card" as cardRandomPile4
+object ":Club" as cardPile5
+object ":Card" as cardRandomPile5
+object ":Spade" as cardPile6
+object ":Card" as cardRandomPile6
+object ":Heart" as cardPile7
+object ":Card" as cardRandomPile7
+
+'STOCK'
+cardStock : color  = random
+cardStock : rank   = random
+cardStock : upTurnCard = false
+
+stock o- - cardStock: 24
+
+
+'WASTE'
+note as noteWaste
+Waste is empty
+end note
+waste .. noteWaste
+
+'FOUNDATION'
+note as noteFoundations
+All foundations are empty
+end note
+
+foundation1 .. noteFoundations
+foundation2 .. noteFoundations
+foundation3 .. noteFoundations
+foundation4 .. noteFoundations
+
+
+'PILE 1'
+cardPile1 : color  = Color.RED
+cardPile1 : rank   = Rank.2
+cardPile1 : upTurnCard = true
+
+pile1 o- - cardPile1
+
+'PILE 2'
+cardRandomPile2 : color  = random
+cardRandomPile2 : rank   = random
+cardRandomPile2 : upTurnCard = false
+
+cardPile2 : color  = Color.RED
+cardPile2 : rank   = Rank.A
+cardPile2 : upTurnCard = true
+
+pile2 o- - cardPile2
+pile2 o- - cardRandomPile2:1
+
+
+'PILE 3'
+cardRandomPile3 : color  = random
+cardRandomPile3 : rank   = random
+cardRandomPile3 : upTurnCard = false
+
+cardPile3 : color  = Color.RED
+cardPile3 : rank   = Rank.J
+cardPile3 : upTurnCard = true
+
+pile3 o- - cardPile3
+pile3 o- - cardRandomPile3:2
+
+
+'PILE 4'
+cardRandomPile4 : color  = random
+cardRandomPile4 : rank   = random
+cardRandomPile4 : upTurnCard = false
+
+cardPile4 : color  = Color.RED
+cardPile4 : rank   = Rank.K
+cardPile4 : upTurnCard = true
+
+pile4 o- - cardPile4
+pile4 o- - cardRandomPile4:3
+
+
+'PILE 5'
+
+cardRandomPile5 : color  = random
+cardRandomPile5 : rank   = random
+cardRandomPile5 : upTurnCard = false
+
+cardPile5 : color  = Color.BLACK
+cardPile5 : rank   = Rank.4
+cardPile5 : upTurnCard = true
+
+pile5 o- - cardPile5
+pile5 o- - cardRandomPile5:4
+
+
+'PILE 6'
+cardRandomPile6 : color  = random
+cardRandomPile6 : rank   = random
+cardRandomPile6 : upTurnCard = false
+
+cardPile6 : color  = Color.BLACK
+cardPile6 : rank   = Rank.5
+cardPile6 : upTurnCard = true
+
+pile6 o- - cardPile6
+pile6 o- - cardRandomPile6:5
+
+
+'PILE 7'
+cardRandomPile7 : color  = random
+cardRandomPile7 : rank   = random
+cardRandomPile7 : upTurnCard = false
+
+cardPile7 : color  = Color.RED
+cardPile7 : rank   = Rank.K
+cardPile7 : upTurnCard = true
+
+pile7 o- - cardPile7
+pile7 o- - cardRandomPile7:6
+
+
+'NOTE LAST CARD OF PILE'
+note as noteLastCardOfPile
+The last card is turned face up, 
+the rest of the cards of the pile are turned face down 
+(on top of the last card).
+end note
+
+cardPile1 .. noteLastCardOfPile
+cardPile2 .. noteLastCardOfPile
+cardPile3 .. noteLastCardOfPile
+cardPile4 .. noteLastCardOfPile
+cardPile5 .. noteLastCardOfPile
+cardPile6 .. noteLastCardOfPile
+cardPile7 .. noteLastCardOfPile
+
+cardRandomPile2 .. noteLastCardOfPile
+cardRandomPile3 .. noteLastCardOfPile
+cardRandomPile4 .. noteLastCardOfPile
+cardRandomPile5 .. noteLastCardOfPile
+cardRandomPile6 .. noteLastCardOfPile
+cardRandomPile7 .. noteLastCardOfPile
+
+'KLONDIKE'
+klondike *- - stock
+klondike *- - waste
+klondike *- - foundation1
+klondike *- - foundation2
+klondike *- - foundation3
+klondike *- - foundation4
+klondike *- - pile1
+klondike *- - pile2
+klondike *- - pile3
+klondike *- - pile4
+klondike *- - pile5
+klondike *- - pile6
+klondike *- - pile7
+
+@enduml
+
+@startuml initial-state
+
+
+object ":Klondike" as klondike
+object ":Stock" as stock
+object ":Waste" as waste
+object ":Foundation" as foundation1
+object ":Foundation" as foundation2
+object ":Foundation" as foundation3
+object ":Foundation" as foundation4
+object ":Pile" as pile1
+object ":Pile" as pile2
+object ":Pile" as pile3
+object ":Pile" as pile4
+object ":Pile" as pile5
+object ":Pile" as pile6
+object ":Pile" as pile7
+object ":Card" as cardStock
+object ":Diamond" as cardPile1
+object ":Club" as cardPile2
+object ":Card" as cardRandomPile2
+object ":Diamond" as cardPile3
+object ":Card" as cardRandomPile3
+object ":Heart" as cardPile4
+object ":Card" as cardRandomPile4
+object ":Club" as cardPile5
+object ":Card" as cardRandomPile5
+object ":Spade" as cardPile6
+object ":Card" as cardRandomPile6
+object ":Heart" as cardPile7
+object ":Card" as cardRandomPile7
+
+cardStock : color  = random
+cardStock : rank   = random
+cardStock : upTurnCard = false
+
+stock o- - cardStock: 24
+
+
+note as noteWaste
+Waste is empty
+end note
+waste .. noteWaste
+
+note as noteFoundations
+All foundations are empty
+end note
+
+foundation1 .. noteFoundations
+foundation2 .. noteFoundations
+foundation3 .. noteFoundations
+foundation4 .. noteFoundations
+
+
+cardPile1 : color  = Color.RED
+cardPile1 : rank   = Rank.2
+cardPile1 : upTurnCard = true
+
+pile1 o- - cardPile1
+
+cardRandomPile2 : color  = random
+cardRandomPile2 : rank   = random
+cardRandomPile2 : upTurnCard = false
+
+cardPile2 : color  = Color.RED
+cardPile2 : rank   = Rank.A
+cardPile2 : upTurnCard = true
+
+pile2 o- - cardPile2
+pile2 o- - cardRandomPile2:1
+
+
+cardRandomPile3 : color  = random
+cardRandomPile3 : rank   = random
+cardRandomPile3 : upTurnCard = false
+
+cardPile3 : color  = Color.RED
+cardPile3 : rank   = Rank.J
+cardPile3 : upTurnCard = true
+
+pile3 o- - cardPile3
+pile3 o- - cardRandomPile3:2
+
+
+cardRandomPile4 : color  = random
+cardRandomPile4 : rank   = random
+cardRandomPile4 : upTurnCard = false
+
+cardPile4 : color  = Color.RED
+cardPile4 : rank   = Rank.K
+cardPile4 : upTurnCard = true
+
+pile4 o- - cardPile4
+pile4 o- - cardRandomPile4:3
+
+
+
+cardRandomPile5 : color  = random
+cardRandomPile5 : rank   = random
+cardRandomPile5 : upTurnCard = false
+
+cardPile5 : color  = Color.BLACK
+cardPile5 : rank   = Rank.4
+cardPile5 : upTurnCard = true
+
+pile5 o- - cardPile5
+pile5 o- - cardRandomPile5:4
+
+
+cardRandomPile6 : color  = random
+cardRandomPile6 : rank   = random
+cardRandomPile6 : upTurnCard = false
+
+cardPile6 : color  = Color.BLACK
+cardPile6 : rank   = Rank.5
+cardPile6 : upTurnCard = true
+
+pile6 o- - cardPile6
+pile6 o- - cardRandomPile6:5
+
+
+cardRandomPile7 : color  = random
+cardRandomPile7 : rank   = random
+cardRandomPile7 : upTurnCard = false
+
+cardPile7 : color  = Color.RED
+cardPile7 : rank   = Rank.K
+cardPile7 : upTurnCard = true
+
+pile7 o- - cardPile7
+pile7 o- - cardRandomPile7:6
+
+
+note as noteLastCardOfPile
+The last card is turned face up, 
+the rest of the cards of the pile are turned face down 
+(on top of the last card).
+end note
+
+cardPile1 .. noteLastCardOfPile
+cardPile2 .. noteLastCardOfPile
+cardPile3 .. noteLastCardOfPile
+cardPile4 .. noteLastCardOfPile
+cardPile5 .. noteLastCardOfPile
+cardPile6 .. noteLastCardOfPile
+cardPile7 .. noteLastCardOfPile
+
+cardRandomPile2 .. noteLastCardOfPile
+cardRandomPile3 .. noteLastCardOfPile
+cardRandomPile4 .. noteLastCardOfPile
+cardRandomPile5 .. noteLastCardOfPile
+cardRandomPile6 .. noteLastCardOfPile
+cardRandomPile7 .. noteLastCardOfPile
+
+klondike *- - stock
+klondike *- - waste
+klondike *- - foundation1
+klondike *- - foundation2
+klondike *- - foundation3
+klondike *- - foundation4
+klondike *- - pile1
+klondike *- - pile2
+klondike *- - pile3
+klondike *- - pile4
+klondike *- - pile5
+klondike *- - pile6
+klondike *- - pile7
+
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 11:16:42 ECT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: EC
+--></g></svg>

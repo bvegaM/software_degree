@@ -12,8 +12,8 @@
 
 ## Classes Diagram
 
-<img title="" src="./img/klondike.png" alt="">
+<img title="" src="./img/class diagram.svg" alt="">
 
 ## Initial State
 
-<img title="initial state" src="./img/initial-state.png">
+<img title="initial state" src="./img/initial-state.svg">
