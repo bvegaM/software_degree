@@ -34,7 +34,7 @@ object ":Card" as cardRandomPile7
 'STOCK'
 cardStock : color  = random
 cardStock : rank   = random
-cardStock : upTurn = false
+cardStock : upTurnCard = false
 
 stock o-- cardStock: 24
 
@@ -59,18 +59,18 @@ foundation4 .. noteFoundations
 'PILE 1'
 cardPile1 : color  = Color.RED
 cardPile1 : rank   = Rank.2
-cardPile1 : upTurn = true
+cardPile1 : upTurnCard = true
 
 pile1 o-- cardPile1
 
 'PILE 2'
 cardRandomPile2 : color  = random
 cardRandomPile2 : rank   = random
-cardRandomPile2 : upTurn = false
+cardRandomPile2 : upTurnCard = false
 
 cardPile2 : color  = Color.RED
 cardPile2 : rank   = Rank.A
-cardPile2 : upTurn = true
+cardPile2 : upTurnCard = true
 
 pile2 o-- cardPile2
 pile2 o-- cardRandomPile2:1
@@ -79,11 +79,11 @@ pile2 o-- cardRandomPile2:1
 'PILE 3'
 cardRandomPile3 : color  = random
 cardRandomPile3 : rank   = random
-cardRandomPile3 : upTurn = false
+cardRandomPile3 : upTurnCard = false
 
 cardPile3 : color  = Color.RED
 cardPile3 : rank   = Rank.J
-cardPile3 : upTurn = true
+cardPile3 : upTurnCard = true
 
 pile3 o-- cardPile3
 pile3 o-- cardRandomPile3:2
@@ -92,11 +92,11 @@ pile3 o-- cardRandomPile3:2
 'PILE 4'
 cardRandomPile4 : color  = random
 cardRandomPile4 : rank   = random
-cardRandomPile4 : upTurn = false
+cardRandomPile4 : upTurnCard = false
 
 cardPile4 : color  = Color.RED
 cardPile4 : rank   = Rank.K
-cardPile4 : upTurn = true
+cardPile4 : upTurnCard = true
 
 pile4 o-- cardPile4
 pile4 o-- cardRandomPile4:3
@@ -106,11 +106,11 @@ pile4 o-- cardRandomPile4:3
 
 cardRandomPile5 : color  = random
 cardRandomPile5 : rank   = random
-cardRandomPile5 : upTurn = false
+cardRandomPile5 : upTurnCard = false
 
 cardPile5 : color  = Color.BLACK
 cardPile5 : rank   = Rank.4
-cardPile5 : upTurn = true
+cardPile5 : upTurnCard = true
 
 pile5 o-- cardPile5
 pile5 o-- cardRandomPile5:4
@@ -119,11 +119,11 @@ pile5 o-- cardRandomPile5:4
 'PILE 6'
 cardRandomPile6 : color  = random
 cardRandomPile6 : rank   = random
-cardRandomPile6 : upTurn = false
+cardRandomPile6 : upTurnCard = false
 
 cardPile6 : color  = Color.BLACK
 cardPile6 : rank   = Rank.5
-cardPile6 : upTurn = true
+cardPile6 : upTurnCard = true
 
 pile6 o-- cardPile6
 pile6 o-- cardRandomPile6:5
@@ -132,11 +132,11 @@ pile6 o-- cardRandomPile6:5
 'PILE 7'
 cardRandomPile7 : color  = random
 cardRandomPile7 : rank   = random
-cardRandomPile7 : upTurn = false
+cardRandomPile7 : upTurnCard = false
 
 cardPile7 : color  = Color.RED
 cardPile7 : rank   = Rank.K
-cardPile7 : upTurn = true
+cardPile7 : upTurnCard = true
 
 pile7 o-- cardPile7
 pile7 o-- cardRandomPile7:6
