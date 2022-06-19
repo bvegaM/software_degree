@@ -29,7 +29,7 @@ object ":Card" as cardRandomPile5
 object ":Spade" as cardPile6
 object ":Card" as cardRandomPile6
 object ":Heart" as cardPile7
-object ":Diamond" as cardRandomPile7
+object ":Card" as cardRandomPile7
 
 'STOCK'
 cardStock : color  = random
