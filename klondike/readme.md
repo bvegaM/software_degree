@@ -21,3 +21,7 @@
 ## Final State
 
 <img title="initial state" src="./img/final-state.svg">
+
+## Instructions
+
+<img title="instructions" src="./img/instructions.svg">

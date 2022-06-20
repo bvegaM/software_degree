@@ -1,0 +1,44 @@
+@startuml instructions diagram
+
+'STATES'
+
+state inDeck
+state inStock
+state inWaste
+state inPile
+state inFoundation
+
+'CONDITIONALS'
+
+state conditionalDeal <<choice>>
+state conditionalWaste <<choice>>
+
+
+'DECK'
+
+[*] --> inDeck: Shuffle Deck
+inDeck --> conditionalDeal: Deal
+
+'PILE'
+
+conditionalDeal --> inPile: [Deal 28 first cards]
+inPile --> inPile : [Move Card From Pile to Pile]
+inPile --> inFoundation: Move card from pile to foundation
+
+'STOCK'
+
+conditionalDeal --> inStock
+inStock --> inWaste: Move cards to waste
+
+'WASTE'
+
+inWaste --> conditionalWaste: [Waste is Empty]
+conditionalWaste --> inStock: Reload waste
+conditionalWaste --> inPile: Move card from waste to pile
+conditionalWaste --> inFoundation: Move card from waste to foundation
+
+'FOUNDATION'
+
+inFoundation --> [*]: [Fill Foundation or abandoned game]
+
+@enduml
