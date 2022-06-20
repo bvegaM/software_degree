@@ -1,0 +1,138 @@
+@startuml
+object ":Klondike" as klondike
+object ":Stock" as stock
+object ":Waste" as waste
+object ":Foundation" as foundation1
+object ":Foundation" as foundation2
+object ":Foundation" as foundation3
+object ":Foundation" as foundation4
+object ":Pile" as pile1
+object ":Pile" as pile2
+object ":Pile" as pile3
+object ":Pile" as pile4
+object ":Pile" as pile5
+object ":Pile" as pile6
+object ":Pile" as pile7
+object ":Diamond" as cardFoundationDiamondAce
+object ":Diamond" as cardFoundationDiamondK
+object ":Club" as cardFoundationClubAce
+object ":Club" as cardFoundationClubK
+object ":Spade" as cardFoundationSpadeAce
+object ":Spade" as cardFoundationSpadeK
+object ":Heart" as cardFoundationHeartAce
+object ":Heart" as cardFoundationHeartK
+
+
+
+
+'PILES'
+note as piles
+all piles are empty
+end note
+
+pile1 .. piles
+pile2 .. piles
+pile3 .. piles
+pile4 .. piles
+pile5 .. piles
+pile6 .. piles
+pile7 .. piles
+
+'STOCK'
+note as stockNote
+is empty
+end note
+
+stock .. stockNote
+
+'WASTE'
+note as wasteNote
+is empty
+end note
+
+waste .. wasteNote
+
+
+'FOUNDATIONS'
+note as foundationNote
+In the foundations the cards 
+are ordered from A to K respecting 
+the color and type of card.
+end note
+
+foundation1 .up. foundationNote
+foundation2 .up. foundationNote
+foundation3 .up. foundationNote
+foundation4 .up. foundationNote
+
+'FOUNDATION 1'
+
+cardFoundationDiamondAce : color  = Color.RED
+cardFoundationDiamondAce : rank   = Rank.A
+cardFoundationDiamondAce : upTurnCard = true
+
+cardFoundationDiamondK : color  = Color.RED
+cardFoundationDiamondK : rank   = Rank.K
+cardFoundationDiamondK : upTurnCard = true
+
+foundation1 o-- cardFoundationDiamondAce
+foundation1 o-- cardFoundationDiamondK
+
+'FOUNDATION 2'
+
+cardFoundationHeartAce : color  = Color.RED
+cardFoundationHeartAce : rank   = Rank.A
+cardFoundationHeartAce : upTurnCard = true
+
+cardFoundationHeartK : color  = Color.RED
+cardFoundationHeartK : rank   = Rank.K
+cardFoundationHeartK : upTurnCard = true
+
+foundation2 o-- cardFoundationHeartAce
+foundation2 o-- cardFoundationHeartK
+
+'FOUNDATION 3'
+
+cardFoundationSpadeAce : color  = Color.BLACK
+cardFoundationSpadeAce : rank   = Rank.A
+cardFoundationSpadeAce : upTurnCard = true
+
+cardFoundationSpadeK : color  = Color.BLACK
+cardFoundationSpadeK : rank   = Rank.K
+cardFoundationSpadeK : upTurnCard = true
+
+foundation3 o-- cardFoundationSpadeAce
+foundation3 o-- cardFoundationSpadeK
+
+'FOUNDATION 4'
+
+cardFoundationClubAce : color  = Color.BLACK
+cardFoundationClubAce : rank   = Rank.A
+cardFoundationClubAce : upTurnCard = true
+
+cardFoundationClubK : color  = Color.BLACK
+cardFoundationClubK : rank   = Rank.K
+cardFoundationClubK : upTurnCard = true
+
+foundation4 o-- cardFoundationClubAce
+foundation4 o-- cardFoundationClubK
+
+'KLONDIKE'
+
+klondike *-- stock
+klondike *-- waste
+
+klondike *-- foundation1
+klondike *-- foundation2
+klondike *-- foundation3
+klondike *-- foundation4
+
+klondike *-- pile1
+klondike *-- pile2
+klondike *-- pile3
+klondike *-- pile4
+klondike *-- pile5
+klondike *-- pile6
+klondike *-- pile7
+
+@enduml

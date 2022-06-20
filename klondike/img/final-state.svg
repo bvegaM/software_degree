@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="291px" preserveAspectRatio="none" style="width:1599px;height:291px;background:#FFFFFF;" version="1.1" viewBox="0 0 1599 291" width="1599px" zoomAndPan="magnify"><defs><filter height="300%" id="f1zp5pir51cby" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="68" x="1044.5" y="17"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="54" x="1051.5" y="30.6016">:Klondike</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1045.5" x2="1111.5" y1="35.1328" y2="35.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="48" x="1424.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="34" x="1431.5" y="135.6016">:Stock</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1425.5" x2="1471.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="52" x="1519.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="38" x="1526.5" y="135.6016">:Waste</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1520.5" x2="1570.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="797" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="804" y="135.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="798" x2="877" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="261" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="268" y="135.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="262" x2="341" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="465" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="472" y="135.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="466" x2="545" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="81" x="639" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="646" y="135.6016">:Foundation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="640" x2="719" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1059.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1066.5" y="135.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1060.5" x2="1096.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1132.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1139.5" y="135.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1133.5" x2="1169.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1205.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1212.5" y="135.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1206.5" x2="1242.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1278.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1285.5" y="135.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1279.5" x2="1315.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="1351.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1358.5" y="135.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1352.5" x2="1388.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="913.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="920.5" y="135.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="914.5" x2="950.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="34.1328" style="stroke:#A80036;stroke-width:1.5;" width="38" x="986.5" y="122"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="993.5" y="135.6016">:Pile</text><line style="stroke:#A80036;stroke-width:1.5;" x1="987.5" x2="1023.5" y1="140.1328" y2="140.1328"/><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="1018" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="1041.5" y="229.6016">:Diamond</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1019" x2="1120" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="1024" y="247.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="1024" y="259.5781">rank   = Rank.A</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="1024" y="271.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="880" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="903.5" y="229.6016">:Diamond</text><line style="stroke:#A80036;stroke-width:1.5;" x1="881" x2="982" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="886" y="247.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="886" y="259.5781">rank   = Rank.K</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="886" y="271.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="114" x="730.5" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="30" x="772.5" y="229.6016">:Club</text><line style="stroke:#A80036;stroke-width:1.5;" x1="731.5" x2="843.5" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="102" x="736.5" y="247.8008">color  = Color.BLACK</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="736.5" y="259.5781">rank   = Rank.A</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="736.5" y="271.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="114" x="581.5" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="30" x="623.5" y="229.6016">:Club</text><line style="stroke:#A80036;stroke-width:1.5;" x1="582.5" x2="694.5" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="102" x="587.5" y="247.8008">color  = Color.BLACK</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="587.5" y="259.5781">rank   = Rank.K</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="587.5" y="271.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="114" x="432.5" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="469.5" y="229.6016">:Spade</text><line style="stroke:#A80036;stroke-width:1.5;" x1="433.5" x2="545.5" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="102" x="438.5" y="247.8008">color  = Color.BLACK</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="438.5" y="259.5781">rank   = Rank.A</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="438.5" y="271.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="114" x="283.5" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="320.5" y="229.6016">:Spade</text><line style="stroke:#A80036;stroke-width:1.5;" x1="284.5" x2="396.5" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="102" x="289.5" y="247.8008">color  = Color.BLACK</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="289.5" y="259.5781">rank   = Rank.K</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="289.5" y="271.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="145" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="36" x="178.5" y="229.6016">:Heart</text><line style="stroke:#A80036;stroke-width:1.5;" x1="146" x2="247" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="151" y="247.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="151" y="259.5781">rank   = Rank.A</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="151" y="271.3555">upTurnCard = true</text><rect fill="#FEFECE" filter="url(#f1zp5pir51cby)" height="61.4648" style="stroke:#A80036;stroke-width:1.5;" width="103" x="7" y="216"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="36" x="40.5" y="229.6016">:Heart</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="109" y1="234.1328" y2="234.1328"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="88" x="13" y="247.8008">color  = Color.RED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="13" y="259.5781">rank   = Rank.K</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="91" x="13" y="271.3555">upTurnCard = true</text><path d="M1156.5,234 L1156.5,259.3105 L1292.5,259.3105 L1292.5,244 L1282.5,234 L1156.5,234 " fill="#FBFB77" filter="url(#f1zp5pir51cby)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1282.5,234 L1282.5,244 L1292.5,244 L1282.5,234 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="115" x="1162.5" y="251.5684">all piles are empty</text><path d="M1405,234 L1405,259.3105 A0,0 0 0 0 1405,259.3105 L1480,259.3105 A0,0 0 0 0 1480,259.3105 L1480,244 L1470,234 L1447.16,234 L1447.59,156.02 L1439.16,234 L1405,234 A0,0 0 0 0 1405,234 " fill="#FBFB77" filter="url(#f1zp5pir51cby)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1470,234 L1470,244 L1480,244 L1470,234 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="54" x="1411" y="251.5684">is empty</text><path d="M1515,234 L1515,259.3105 A0,0 0 0 0 1515,259.3105 L1590,259.3105 A0,0 0 0 0 1590,259.3105 L1590,244 L1580,234 L1555.73,234 L1546.56,156.02 L1547.73,234 L1515,234 A0,0 0 0 0 1515,234 " fill="#FBFB77" filter="url(#f1zp5pir51cby)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1580,234 L1580,244 L1590,244 L1580,234 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="54" x="1521" y="251.5684">is empty</text><path d="M484.5,6 L484.5,61.9316 L726.5,61.9316 L726.5,16 L716.5,6 L484.5,6 " fill="#FBFB77" filter="url(#f1zp5pir51cby)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M716.5,6 L716.5,16 L726.5,16 L716.5,6 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="178" x="490.5" y="23.5684">In the foundations the cards</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="217" x="490.5" y="38.8789">are ordered from A to K respecting</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="490.5" y="54.1895">the color and type of card.</text><!--MD5=[4da9746dc3a16c7681f31987bd4ff32f]
+link pile1 to piles--><path codeLine="32" d="M1097.59,153.79 C1126.65,174.79 1181.47,214.41 1208.55,233.97 " fill="none" id="pile1-piles" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[8299e6323fd211a346f0e53fa9e1c605]
+link pile2 to piles--><path codeLine="33" d="M1162.59,156.02 C1177.42,177.47 1203.38,214.98 1216.47,233.9 " fill="none" id="pile2-piles" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[bf74ec66748173c2c7f0f64e3be89954]
+link pile3 to piles--><path codeLine="34" d="M1224.5,156.02 C1224.5,177.47 1224.5,214.98 1224.5,233.9 " fill="none" id="pile3-piles" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[e5a7ccbaad6b6c54d879339fd5ffe119]
+link pile4 to piles--><path codeLine="35" d="M1286.41,156.02 C1271.58,177.47 1245.62,214.98 1232.53,233.9 " fill="none" id="pile4-piles" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[90b5e4bbf2d7e7432e4b57028614ae53]
+link pile5 to piles--><path codeLine="36" d="M1351.41,153.79 C1322.35,174.79 1267.53,214.41 1240.45,233.97 " fill="none" id="pile5-piles" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[39f2281a78aaeddc5028860cd80cd770]
+link pile6 to piles--><path codeLine="37" d="M951.6,148.56 C957.32,151.05 963.63,153.71 969.5,156 C990.75,164.31 1126.91,211.66 1191.1,233.92 " fill="none" id="pile6-piles" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[e5d6797843b25ddf282a5c3dd6d3e5bd]
+link pile7 to piles--><path codeLine="38" d="M1024.55,149.18 C1064.41,168.38 1156.52,212.75 1200.41,233.89 " fill="none" id="pile7-piles" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[2a82c10076aacfde9ec83383bdb119df]
+link foundationNote to foundation1--><path codeLine="62" d="M666.46,62.06 C709.28,81.08 765.14,105.87 801.17,121.87 " fill="none" id="foundationNote-foundation1" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[120f4cf46dd467c99fec52bfbd1b457d]
+link foundationNote to foundation2--><path codeLine="63" d="M525.63,62.06 C466.7,82.03 388.93,108.38 342.21,124.21 " fill="none" id="foundationNote-foundation2" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[aeaf489ac0c9e4913d000535fa09f915]
+link foundationNote to foundation3--><path codeLine="64" d="M579.23,62.06 C560.82,81.02 536.84,105.72 521.31,121.72 " fill="none" id="foundationNote-foundation3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[778b46b569cb2cf786ea7db6da7cafa2]
+link foundationNote to foundation4--><path codeLine="65" d="M624.94,62.06 C638.56,81.02 656.31,105.72 667.8,121.72 " fill="none" id="foundationNote-foundation4" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[74f838caccfb9ac03bbacc559210aa1f]
+reverse link foundation1 to cardFoundationDiamondAce--><path codeLine="77" d="M884.7,161.47 C923.42,179.07 978.13,203.95 1017.98,222.07 " fill="none" id="foundation1-backto-cardFoundationDiamondAce" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="872.74,156.02,876.552,162.1412,883.6685,160.9767,879.8565,154.8555,872.74,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[be2db9aab5372d555ba8be180aa807fb]
+reverse link foundation1 to cardFoundationDiamondK--><path codeLine="78" d="M860.43,165.74 C873.88,180.83 890.93,199.97 904.96,215.71 " fill="none" id="foundation1-backto-cardFoundationDiamondK" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="851.78,156.02,852.7909,163.1599,859.7704,164.9729,858.7595,157.833,851.78,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[789d59b1345ac1c1a722a49e7429381d]
+reverse link foundation2 to cardFoundationHeartAce--><path codeLine="90" d="M276.32,165.3 C261.23,180.46 241.97,199.81 226.15,215.71 " fill="none" id="foundation2-backto-cardFoundationHeartAce" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="285.55,156.02,278.4822,157.4507,277.0845,164.525,284.1523,163.0943,285.55,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[53440e847953ba156078c7d9fa4861c2]
+reverse link foundation2 to cardFoundationHeartK--><path codeLine="91" d="M252.64,161.21 C211.33,179.15 152.31,204.77 110.21,223.05 " fill="none" id="foundation2-backto-cardFoundationHeartK" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="264.59,156.02,257.4935,154.7397,253.5822,160.798,260.6788,162.0782,264.59,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f3116c35610492e31f9cf748644cd4b7]
+reverse link foundation3 to cardFoundationSpadeAce--><path codeLine="103" d="M501.06,169.29 C498.86,183.75 496.22,201.18 494.02,215.71 " fill="none" id="foundation3-backto-cardFoundationSpadeAce" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="503.07,156.02,498.2126,161.3497,501.2641,167.8833,506.1215,162.5536,503.07,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[860291e51b50342d177cb919c96fb9d1]
+reverse link foundation3 to cardFoundationSpadeK--><path codeLine="104" d="M469.23,163.19 C444.97,178.7 412.85,199.24 386.76,215.92 " fill="none" id="foundation3-backto-cardFoundationSpadeK" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="480.44,156.02,473.2303,155.8794,470.3275,162.4804,477.5372,162.621,480.44,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[727662931a204538b9c60c5b3bd4ce32]
+reverse link foundation4 to cardFoundationClubAce--><path codeLine="116" d="M705.4,165.3 C720.92,180.46 740.73,199.81 757,215.71 " fill="none" id="foundation4-backto-cardFoundationClubAce" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="695.9,156.02,697.3965,163.0741,704.4836,164.4058,702.9871,157.3517,695.9,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[c029529e2d1f42c7cb2eab04476f381e]
+reverse link foundation4 to cardFoundationClubK--><path codeLine="117" d="M668.47,168.39 C662.78,183.03 655.84,200.87 650.08,215.71 " fill="none" id="foundation4-backto-cardFoundationClubK" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="673.27,156.02,667.3664,160.1609,668.9181,167.2031,674.8217,163.0622,673.27,156.02" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[19e2af5ce11f916252ea7a0d12351353]
+reverse link klondike to stock--><path codeLine="121" d="M1125.86,45.74 C1190.23,60.73 1308.65,89.76 1407.5,122 C1413.02,123.8 1418.88,125.94 1424.38,128.06 " fill="none" id="klondike-backto-stock" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1112.97,42.75,1117.9096,48.0036,1124.6589,45.4647,1119.7193,40.211,1112.97,42.75" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f98bf15530e19c63aa9e2fe3ce399952]
+reverse link klondike to waste--><path codeLine="122" d="M1125.55,43.74 C1202.35,58.28 1359.22,89.09 1490.5,122 C1499.95,124.37 1510.23,127.27 1519.31,129.95 " fill="none" id="klondike-backto-waste" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1112.61,41.3,1117.7626,46.3449,1124.4012,43.529,1119.2486,38.4841,1112.61,41.3" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[7f1eaf642ecee8ec97be5a152bd2f6c1]
+reverse link klondike to foundation1--><path codeLine="124" d="M1032.27,54.76 C986.66,74.25 917.76,103.7 875.31,121.84 " fill="none" id="klondike-backto-foundation1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1044.48,49.54,1037.3904,48.2218,1033.4469,54.2591,1040.5365,55.5773,1044.48,49.54" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[75ee1b326fcf4975f9c5f8146aca7012]
+reverse link klondike to foundation2--><path codeLine="125" d="M1031.22,41.27 C890.28,59.95 474.63,115.05 342.39,132.58 " fill="none" id="klondike-backto-foundation2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1044.36,39.53,1037.8884,36.3491,1032.4631,41.0995,1038.9347,44.2804,1044.36,39.53" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8014f9bbfebd48c05cf4a59ec01a1edc]
+reverse link klondike to foundation3--><path codeLine="126" d="M1031.5,43.45 C921.64,63.2 649.55,112.11 546.21,130.68 " fill="none" id="klondike-backto-foundation3" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1044.37,41.13,1037.7566,38.2555,1032.5596,43.2546,1039.173,46.1291,1044.37,41.13" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3981f20d2d5f59fc59049c23d08f8715]
+reverse link klondike to foundation4--><path codeLine="127" d="M1031.61,47.1 C952.71,67.47 794.71,108.26 720.18,127.5 " fill="none" id="klondike-backto-foundation4" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1044.48,43.78,1037.6717,41.4036,1032.8595,46.7741,1039.6678,49.1506,1044.48,43.78" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[54649e7ffaea488a9670acb7ba8a201e]
+reverse link klondike to pile1--><path codeLine="129" d="M1078.5,64.18 C1078.5,82.81 1078.5,106.27 1078.5,121.68 " fill="none" id="klondike-backto-pile1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1078.5,51.09,1074.5,57.09,1078.5,63.09,1082.5,57.09,1078.5,51.09" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[990c750f278e367e50a6bd28d7ddc7ce]
+reverse link klondike to pile2--><path codeLine="130" d="M1097.46,61.75 C1110.91,80.73 1128.53,105.59 1139.93,121.68 " fill="none" id="klondike-backto-pile2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1089.91,51.09,1090.1121,58.2983,1096.8436,60.8841,1096.6415,53.6758,1089.91,51.09" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a3d0d06cc618e076ae9a7e559f45cd9e]
+reverse link klondike to pile3--><path codeLine="131" d="M1112.1,58.71 C1140.91,79.03 1181.41,107.6 1205.11,124.32 " fill="none" id="klondike-backto-pile3" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1101.31,51.09,1103.9061,57.8176,1111.1147,58.0086,1108.5186,51.2811,1101.31,51.09" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d4ee998a39be57162c29fc70c4fd2009]
+reverse link klondike to pile4--><path codeLine="132" d="M1124.57,56.67 C1172.25,79.09 1244.41,113.03 1278.45,129.04 " fill="none" id="klondike-backto-pile4" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1112.72,51.09,1116.4475,57.263,1123.5793,56.1964,1119.8518,50.0234,1112.72,51.09" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d2233a30cf339411a6bc409f9f4f9fac]
+reverse link klondike to pile5--><path codeLine="133" d="M1125.52,49.57 C1177.22,65.91 1262.52,93.84 1334.5,122 C1339.98,124.14 1345.84,126.65 1351.21,129.04 " fill="none" id="klondike-backto-pile5" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1112.81,45.57,1117.3335,51.1859,1124.2572,49.1703,1119.7337,43.5544,1112.81,45.57" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a4935493392d58094cdfcb1b607c511c]
+reverse link klondike to pile6--><path codeLine="134" d="M1044.9,58.71 C1016.09,79.03 975.59,107.6 951.89,124.32 " fill="none" id="klondike-backto-pile6" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1055.69,51.09,1048.4814,51.2811,1045.8853,58.0086,1053.0939,57.8176,1055.69,51.09" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[fcd5cda0988c9f31f64a21e4995bade2]
+reverse link klondike to pile7--><path codeLine="135" d="M1059.54,61.75 C1046.09,80.73 1028.47,105.59 1017.07,121.68 " fill="none" id="klondike-backto-pile7" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1067.09,51.09,1060.3585,53.6758,1060.1564,60.8841,1066.8879,58.2983,1067.09,51.09" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[53482290a92f9807da52d4fb96d12c9c]
+@startuml
+object ":Klondike" as klondike
+object ":Stock" as stock
+object ":Waste" as waste
+object ":Foundation" as foundation1
+object ":Foundation" as foundation2
+object ":Foundation" as foundation3
+object ":Foundation" as foundation4
+object ":Pile" as pile1
+object ":Pile" as pile2
+object ":Pile" as pile3
+object ":Pile" as pile4
+object ":Pile" as pile5
+object ":Pile" as pile6
+object ":Pile" as pile7
+object ":Diamond" as cardFoundationDiamondAce
+object ":Diamond" as cardFoundationDiamondK
+object ":Club" as cardFoundationClubAce
+object ":Club" as cardFoundationClubK
+object ":Spade" as cardFoundationSpadeAce
+object ":Spade" as cardFoundationSpadeK
+object ":Heart" as cardFoundationHeartAce
+object ":Heart" as cardFoundationHeartK
+
+
+
+
+'PILES'
+note as piles
+all piles are empty
+end note
+
+pile1 .. piles
+pile2 .. piles
+pile3 .. piles
+pile4 .. piles
+pile5 .. piles
+pile6 .. piles
+pile7 .. piles
+
+'STOCK'
+note as stockNote
+is empty
+end note
+
+stock .. stockNote
+
+'WASTE'
+note as wasteNote
+is empty
+end note
+
+waste .. wasteNote
+
+
+'FOUNDATIONS'
+note as foundationNote
+In the foundations the cards 
+are ordered from A to K respecting 
+the color and type of card.
+end note
+
+foundation1 .up. foundationNote
+foundation2 .up. foundationNote
+foundation3 .up. foundationNote
+foundation4 .up. foundationNote
+
+'FOUNDATION 1'
+
+cardFoundationDiamondAce : color  = Color.RED
+cardFoundationDiamondAce : rank   = Rank.A
+cardFoundationDiamondAce : upTurnCard = true
+
+cardFoundationDiamondK : color  = Color.RED
+cardFoundationDiamondK : rank   = Rank.K
+cardFoundationDiamondK : upTurnCard = true
+
+foundation1 o- - cardFoundationDiamondAce
+foundation1 o- - cardFoundationDiamondK
+
+'FOUNDATION 2'
+
+cardFoundationHeartAce : color  = Color.RED
+cardFoundationHeartAce : rank   = Rank.A
+cardFoundationHeartAce : upTurnCard = true
+
+cardFoundationHeartK : color  = Color.RED
+cardFoundationHeartK : rank   = Rank.K
+cardFoundationHeartK : upTurnCard = true
+
+foundation2 o- - cardFoundationHeartAce
+foundation2 o- - cardFoundationHeartK
+
+'FOUNDATION 3'
+
+cardFoundationSpadeAce : color  = Color.BLACK
+cardFoundationSpadeAce : rank   = Rank.A
+cardFoundationSpadeAce : upTurnCard = true
+
+cardFoundationSpadeK : color  = Color.BLACK
+cardFoundationSpadeK : rank   = Rank.K
+cardFoundationSpadeK : upTurnCard = true
+
+foundation3 o- - cardFoundationSpadeAce
+foundation3 o- - cardFoundationSpadeK
+
+'FOUNDATION 4'
+
+cardFoundationClubAce : color  = Color.BLACK
+cardFoundationClubAce : rank   = Rank.A
+cardFoundationClubAce : upTurnCard = true
+
+cardFoundationClubK : color  = Color.BLACK
+cardFoundationClubK : rank   = Rank.K
+cardFoundationClubK : upTurnCard = true
+
+foundation4 o- - cardFoundationClubAce
+foundation4 o- - cardFoundationClubK
+
+'KLONDIKE'
+
+klondike *- - stock
+klondike *- - waste
+
+klondike *- - foundation1
+klondike *- - foundation2
+klondike *- - foundation3
+klondike *- - foundation4
+
+klondike *- - pile1
+klondike *- - pile2
+klondike *- - pile3
+klondike *- - pile4
+klondike *- - pile5
+klondike *- - pile6
+klondike *- - pile7
+
+@enduml
+
+@startuml
+object ":Klondike" as klondike
+object ":Stock" as stock
+object ":Waste" as waste
+object ":Foundation" as foundation1
+object ":Foundation" as foundation2
+object ":Foundation" as foundation3
+object ":Foundation" as foundation4
+object ":Pile" as pile1
+object ":Pile" as pile2
+object ":Pile" as pile3
+object ":Pile" as pile4
+object ":Pile" as pile5
+object ":Pile" as pile6
+object ":Pile" as pile7
+object ":Diamond" as cardFoundationDiamondAce
+object ":Diamond" as cardFoundationDiamondK
+object ":Club" as cardFoundationClubAce
+object ":Club" as cardFoundationClubK
+object ":Spade" as cardFoundationSpadeAce
+object ":Spade" as cardFoundationSpadeK
+object ":Heart" as cardFoundationHeartAce
+object ":Heart" as cardFoundationHeartK
+
+
+
+
+note as piles
+all piles are empty
+end note
+
+pile1 .. piles
+pile2 .. piles
+pile3 .. piles
+pile4 .. piles
+pile5 .. piles
+pile6 .. piles
+pile7 .. piles
+
+note as stockNote
+is empty
+end note
+
+stock .. stockNote
+
+note as wasteNote
+is empty
+end note
+
+waste .. wasteNote
+
+
+note as foundationNote
+In the foundations the cards 
+are ordered from A to K respecting 
+the color and type of card.
+end note
+
+foundation1 .up. foundationNote
+foundation2 .up. foundationNote
+foundation3 .up. foundationNote
+foundation4 .up. foundationNote
+
+
+cardFoundationDiamondAce : color  = Color.RED
+cardFoundationDiamondAce : rank   = Rank.A
+cardFoundationDiamondAce : upTurnCard = true
+
+cardFoundationDiamondK : color  = Color.RED
+cardFoundationDiamondK : rank   = Rank.K
+cardFoundationDiamondK : upTurnCard = true
+
+foundation1 o- - cardFoundationDiamondAce
+foundation1 o- - cardFoundationDiamondK
+
+
+cardFoundationHeartAce : color  = Color.RED
+cardFoundationHeartAce : rank   = Rank.A
+cardFoundationHeartAce : upTurnCard = true
+
+cardFoundationHeartK : color  = Color.RED
+cardFoundationHeartK : rank   = Rank.K
+cardFoundationHeartK : upTurnCard = true
+
+foundation2 o- - cardFoundationHeartAce
+foundation2 o- - cardFoundationHeartK
+
+
+cardFoundationSpadeAce : color  = Color.BLACK
+cardFoundationSpadeAce : rank   = Rank.A
+cardFoundationSpadeAce : upTurnCard = true
+
+cardFoundationSpadeK : color  = Color.BLACK
+cardFoundationSpadeK : rank   = Rank.K
+cardFoundationSpadeK : upTurnCard = true
+
+foundation3 o- - cardFoundationSpadeAce
+foundation3 o- - cardFoundationSpadeK
+
+
+cardFoundationClubAce : color  = Color.BLACK
+cardFoundationClubAce : rank   = Rank.A
+cardFoundationClubAce : upTurnCard = true
+
+cardFoundationClubK : color  = Color.BLACK
+cardFoundationClubK : rank   = Rank.K
+cardFoundationClubK : upTurnCard = true
+
+foundation4 o- - cardFoundationClubAce
+foundation4 o- - cardFoundationClubK
+
+
+klondike *- - stock
+klondike *- - waste
+
+klondike *- - foundation1
+klondike *- - foundation2
+klondike *- - foundation3
+klondike *- - foundation4
+
+klondike *- - pile1
+klondike *- - pile2
+klondike *- - pile3
+klondike *- - pile4
+klondike *- - pile5
+klondike *- - pile6
+klondike *- - pile7
+
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 11:16:42 ECT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: EC
+--></g></svg>

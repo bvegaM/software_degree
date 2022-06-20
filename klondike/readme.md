@@ -17,3 +17,7 @@
 ## Initial State
 
 <img title="initial state" src="./img/initial-state.svg">
+
+## Final State
+
+<img title="initial state" src="./img/final-state.svg">
